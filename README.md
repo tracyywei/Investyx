@@ -1,5 +1,5 @@
 # Investyx
-Best Financial Hack at TechTogether Boston | 3rd Best Hack at hackTAMS
+<b>Best Financial Hack at TechTogether Boston | 3rd Best Hack at hackTAMS</b>
 
 
 The idea behind this app came from our own experience with personal finance and investments as some of our team members barely had any knowledge of how investments worked, much less how to invest successfully. We soon realized that this was also a problem that many Gen Z-ers and millennials face despite the importance of being financially literate and knowledgeable about investments, especially in an economy heavily impacted by COVID-19. A survey by Investopedia revealed that only 37% of affluent millennials feel knowledgeable about investing at all, and this number does not even consider the “everyday millennials”. Through investyx, we hope to help millennials, Gen Z-ers, and future generations gain financial literacy, especially in investments, and prepare them for their roles and success in the world of economy.
