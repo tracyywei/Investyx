@@ -1,8 +1,2 @@
 # Investyx
 <b>Best Financial Hack at TechTogether Boston | 3rd Best Hack at hackTAMS</b>
-
-
-The idea behind this app came from our own experience with personal finance and investments as some of our team members barely had any knowledge of how investments worked, much less how to invest successfully. We soon realized that this was also a problem that many Gen Z-ers and millennials face despite the importance of being financially literate and knowledgeable about investments, especially in an economy heavily impacted by COVID-19. A survey by Investopedia revealed that only 37% of affluent millennials feel knowledgeable about investing at all, and this number does not even consider the “everyday millennials”. Through investyx, we hope to help millennials, Gen Z-ers, and future generations gain financial literacy, especially in investments, and prepare them for their roles and success in the world of economy.
-
-
-investyx has two prominent features: interactive game simulations and personalized ratings for your investments. The interactive game simulations feature four main categories of investment -- real estate, stocks, bonds, and index funds -- with a series of levels that test your knowledge of that specific area of investment through scenarios with increasing difficulty. If a question is answered incorrectly, feedback will be given immediately with pointers on what the user should have done instead in this scenario. Through this practice, the user will be better prepared for similar investment situations they may face in the future and will actually “have experience” thanks to our game simulator. The other feature of our app rates your investments using bank data, providing insight on how effectively you are using your knowledge of investments.
